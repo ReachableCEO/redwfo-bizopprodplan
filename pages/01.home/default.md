@@ -1,3 +1,8 @@
+---
+title: 'Redwood Group Family Office (REDWFO) - Business/Operations/Product Plan - Introduction'
+menu: 'Redwood Group Family Office (REDWFO) - Business/Operations/Product Plan - Introduction'
+---
+
 
 # Redwood Group Family Office (REDWFO) - Business/Operations/Product Plan - Introduction
 
